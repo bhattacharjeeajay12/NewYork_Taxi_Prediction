@@ -14,6 +14,6 @@ FHV transportation is accessed by a pre-arrangement with a dispatcher or limo co
 branding, meters, credit card machines, and ultimately the right to accept street hails in addition to pre-arranged
 rides.
 
-## Footnote:
+## Note:
 In the given notebook we are considering only the yellow taxis for the time period between Jan - Mar 2015 & Jan - Mar 2016
 
